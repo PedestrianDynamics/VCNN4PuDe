@@ -1,4 +1,4 @@
-# **CVCNN4PuDe:** A Novel Voronoi-based Convolutional Neural Network Framework for Pushing Person Detection in Crowd Videos
+# **VCNN4PuDe:** A Novel Voronoi-based Convolutional Neural Network Framework for Pushing Person Detection in Crowd Videos
 <p align='center'>
 <img src="./files/logo.png"  />
 </p>
@@ -56,6 +56,7 @@ An Annotated Video produced by **VCNN4PuDe** Framework
  1. Create a directory named VCNN4PuDe on your drive.
  2. Access VCNN4PuDe directory.
  3. Add new notebook and run the follwing commands
+ 
     a. Mount Google Drive
     ```
     from google.colab import drive
