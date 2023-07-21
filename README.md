@@ -43,9 +43,12 @@ The main goal of this article is to introduce a framework (**VCNN4PuDe**) to ide
 
 
 
-## Sample of An Annotated Video produced by **VCNN4PuDe** Framework
+## Sample 
+An Annotated Video produced by **VCNN4PuDe** Framework
 <a name="sample"/>
-<img src='files/output.gif' /> 
+<p align='center'>
+<img src='files/output.gif' width='60%' /> 
+</p>
 
 ## Instalation on Google Colab
 <a name="installation"/>
