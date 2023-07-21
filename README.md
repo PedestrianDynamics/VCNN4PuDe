@@ -40,7 +40,9 @@ The main goal of this article is to introduce a framework (**VCNN4PuDe**) to ide
 <p align='center'>
 <img src="./files/framework.png" width='90%'>
 </p>
+
 <img src='files/input.gif' />
+
 ## Sample
 <a name="sample"/>
 <table align='center'>
