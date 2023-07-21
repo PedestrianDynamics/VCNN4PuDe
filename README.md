@@ -46,18 +46,18 @@ The main goal of this article is to introduce a framework (**VCNN4PuDe**) to ide
 <table align='center'>
 <tr>
     <td> Input video </td>
-    <td> Output video (Annotated Vido by **VCNN4PuDe**)  </td>
+    <td> Output video (Annotated Vido by VCNN4PuDe)  </td>
 </tr>
 
 <tr>
     <td align='center'> <img src='files/input.gif' /></td>
-    <td align='center'> <img src='filesoutput.gif' /></td>
+    <td align='center'> <img src='files/output.gif' /></td>
 </tr>
 </table>
 
 ## Instalation on Google Colab
-
 <a name="installation"/>
+
  1. Create a directory named VCNN4PuDe on your drive.
  2. Access VCNN4PuDe directory.
  3. Add new notebook and run the follwing commands
