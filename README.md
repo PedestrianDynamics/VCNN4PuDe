@@ -23,7 +23,7 @@ for Pushing Person Detection in Crowd Videos". 2023
 <li><a href="#cnn">Code for the CNN Architectures and Training</a>
 <li><a href="#models">Trained CNN models</a>
 <li><a href="#testsets">Test Sets</a>
-<li><a href="#training">Code for Trained CNN Models Evaluation</a>
+<li><a href="#training">Code for the Trained CNN Models Evaluation</a>
 
 
 </ul>
