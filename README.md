@@ -93,8 +93,8 @@ Note: They were  taken from <a href="http://ped.fz-juelich.de/da/2018crowdqueue"
 ## **VCNN4PuDe** Running
 <a name="running"/>
 
-<img src"/files/running1.png" />
-<img src"/files/running2.png" />
+<img src="/files/running1.png" />
+<img src="/files/running2.png" />
 
  Open the run notebook and follow the instructions in the notebook, and the annotated Video.mp4 will be stored in the annotated folder.
  Note: If some libraries are required for running the framework, use the following command to install it
