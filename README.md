@@ -30,7 +30,7 @@ for Pushing Person Detection in Crowd Videos". 2023
 
 ## Goal 
 <a name="goal"/>
-The main goal of this article is to introduce a framework (**VCNN4PuDe**) to identify the persons who engage in pushing within videos of crowds.
+The main goal of this article is to introduce a framework (**VCNN4PuDe**) for identify the persons who engage in pushing within videos of crowds.
 
 ## Motivation
 <a name="motivation"/>
