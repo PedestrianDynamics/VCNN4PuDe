@@ -4,8 +4,7 @@
 </p>
 <hr/>
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8175515.svg)](https://doi.org/10.5281/zenodo.8175515)
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Python 3.7 | 3.8](https://img.shields.io/badge/Python-3.7|3.8-blue.svg) ![Google Colab](https://img.shields.io/badge/Google_Colab-Yes-orange) 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8175540.svg)](https://doi.org/10.5281/zenodo.8175540) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Python 3.7 | 3.8](https://img.shields.io/badge/Python-3.7|3.8-blue.svg) ![Google Colab](https://img.shields.io/badge/Google_Colab-Yes-orange) 
 
 This repository is for the submited paper:
 ```
