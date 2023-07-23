@@ -20,10 +20,10 @@ for Pushing Person Detection in Crowd Videos". 2023
 <li> <a href="#sample">Samples</a>
 <li> <a href="#installation">Framework Installing </a>
 <li> <a href="#running">Framework Running</a>
-<li><a href="#cnn">Code for the CNN Architectures and Training</a>
+<li><a href="#cnn">Codes for CNN Architectures and Training</a>
 <li><a href="#models">Trained CNN models</a>
 <li><a href="#testsets">Test Sets</a>
-<li><a href="#training">Code for the Trained CNN Models Evaluation</a>
+<li><a href="#training">Codes for Trained CNN Models Evaluation</a>
 
 
 </ul>
@@ -116,7 +116,7 @@ All trained models produced in this article are available at this <a href="model
 <a name="testsets"/>
 Two test sets are available at this <a href="test-sets" >link </a> 
 
-## The Code for the Trained Models Evaluation
+## Codes for Trained Models Evaluation
 <a name="training"/>
 Two test sets are available at this <a href="CNN-and-training.ipynb" >link </a>  
 
