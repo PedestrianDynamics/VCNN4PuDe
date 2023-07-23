@@ -3,7 +3,7 @@
 
 cff-version: 1.0.1
 title: >-
-  CloudFast-DL4PuDe
+  VCNN4PuDe: A Novel Voronoi-based CNN Framework for Pushing Person Detection in Crowd Videos
 message: 'If you use this software, please cite it as below.'
 type: software
 version: V1.1.0.1
