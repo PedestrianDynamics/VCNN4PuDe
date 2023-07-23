@@ -1,4 +1,4 @@
-# **VCNN4PuDe:** A Novel Voronoi-based Convolutional Neural Network Framework for Pushing Person Detection in Crowd Videos
+# **VCNN4PuDe:** A Novel Voronoi-based CNN Framework for Pushing Person Detection in Crowd Videos
 <p align='center'>
 <img src="./files/logo.png"  />
 </p>
@@ -15,8 +15,9 @@ for Pushing Person Detection in Crowd Videos". 2023
 <ul>
 <li>  <a href="#goal"> Goal </a>
 <li><a href="#motivation">Motivation</a>
-<li> <a href="#architicture">Architicture of **VCNN4PuDe** </a>
-<li> <a href="#sample">Sample</a>
+<li> <a href="#architicture">Architicture of VCNN4PuDe </a>
+<li> <a href="#framework">Codes of VCNN4PuDe </a>
+<li> <a href="#sample">Samples</a>
 <li> <a href="#installation">Installation</a>
 <li> <a href="#running">Running</a>
 <li><a href="#cnn">Code for the CNN Architectures and Training</a>
@@ -41,10 +42,18 @@ The main goal of this article is to introduce a framework (**VCNN4PuDe**) to ide
 <img src="./files/framework.png" width='90%'>
 </p>
 
+### Codes of **VCNN4PuDe** Framework
+<a href="Run.ipynb">Codes of VCNN4PuDe</a>
 
 
-## Sample 
-An Annotated Video produced by **VCNN4PuDe** Framework
+## Samples
+**Input video with its trajectory data**
+
+You can access them by this <a href="samples/">link</link>
+Note: They were  taken from <a href="http://ped.fz-juelich.de/da/2018crowdqueue"> Pedestrian Dynamics Data Archive </a> hosted by FZJ
+
+**Annotated Video produced by **VCNN4PuDe** Framework**
+
 <a name="sample"/>
 <p align='center'>
 <img src='files/output.gif' width='60%' /> 
@@ -77,6 +86,10 @@ An Annotated Video produced by **VCNN4PuDe** Framework
     
 ## Running
 <a name="running"/>
+
+<img src"/files/running1.png" />
+<img src"/files/running2.png" />
+
  Open the run notebook and follow the instructions in the notebook, and the annotated Video.mp4 will be stored in the annotated folder.
  Note: If some libraries are required for running the framework, use the following command to install it
  ```
@@ -93,11 +106,11 @@ All trained models produced in this article are available at this <a href="model
 
 ## Test Sets
 <a name="testsets"/>
-Two test sets are available at this <a href="models" >link </a> 
+Two test sets are available at this <a href="test-sets" >link </a> 
 
 ## The Code for the Trained Models Evaluation
 <a name="training"/>
-Two test sets are available at this <a href="models" >link </a>  
+Two test sets are available at this <a href="CNN-and-training.ipynb" >link </a>  
 
 ### Acknowledgement
 1. Thanks to the authors of voronoi\_finite\_polygons_2d function. 
