@@ -53,9 +53,9 @@ The main goal of this article is to introduce a framework (**VCNN4PuDe**) to ide
 
 **Input video with its trajectory data**
 
-You can access them by this <a href="samples/">link</link>
+You can access them by this <a href="samples/">link</link>.
 
-Note: They were  taken from <a href="http://ped.fz-juelich.de/da/2018crowdqueue"> Pedestrian Dynamics Data Archive </a> hosted by FZJ
+Note: They were  taken from <a href="http://ped.fz-juelich.de/da/2018crowdqueue"> Pedestrian Dynamics Data Archive </a> hosted by FZJ.
 
 
 **Annotated Video produced by **VCNN4PuDe** Framework**
