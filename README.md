@@ -28,21 +28,22 @@ for Pushing Person Detection in Crowd Videos". 2023
 
 </ul>
 
-### Goal 
+## Goal 
 <a name="goal"/>
 The main goal of this article is to introduce a framework (**VCNN4PuDe**) to identify the persons who engage in pushing within videos of crowds.
 
-### Motivation
+## Motivation
 <a name="motivation"/>
  Detecting pushing persons within videos of crowded event entrances is crucial for understanding pushing dynamics, thereby designing and managing more comfortable and safer entrances.
 
-### Architicture of **VCNN4PuDe** Framework
+## Architicture of **VCNN4PuDe** Framework
 <a name="architicture"/>
 <p align='center'>
 <img src="./files/framework.png" width='90%'>
 </p>
 
-### Codes of **VCNN4PuDe** Framework
+
+## Codes of **VCNN4PuDe** Framework
 <a name="framework"/>
 <a href="Run.ipynb">Codes of VCNN4PuDe</a>
 
@@ -51,7 +52,9 @@ The main goal of this article is to introduce a framework (**VCNN4PuDe**) to ide
 **Input video with its trajectory data**
 
 You can access them by this <a href="samples/">link</link>
+
 Note: They were  taken from <a href="http://ped.fz-juelich.de/da/2018crowdqueue"> Pedestrian Dynamics Data Archive </a> hosted by FZJ
+
 
 **Annotated Video produced by **VCNN4PuDe** Framework**
 
