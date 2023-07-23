@@ -18,8 +18,8 @@ for Pushing Person Detection in Crowd Videos". 2023
 <li> <a href="#architicture">Architicture of VCNN4PuDe </a>
 <li> <a href="#framework">Codes of VCNN4PuDe </a>
 <li> <a href="#sample">Samples</a>
-<li> <a href="#installation">Installation</a>
-<li> <a href="#running">Running</a>
+<li> <a href="#installation">Framework Installing </a>
+<li> <a href="#running">Framework Running</a>
 <li><a href="#cnn">Code for the CNN Architectures and Training</a>
 <li><a href="#models">Trained CNN models</a>
 <li><a href="#testsets">Test Sets</a>
@@ -65,7 +65,7 @@ Note: They were  taken from <a href="http://ped.fz-juelich.de/da/2018crowdqueue"
 <img src='files/output.gif' width='60%' /> 
 </p>
 
-## Instalation on Google Colab
+## **VCNN4PuDe** Installing  on Google Colab
 <a name="installation"/>
 
  1. Create a directory named VCNN4PuDe on your drive.
@@ -90,7 +90,7 @@ Note: They were  taken from <a href="http://ped.fz-juelich.de/da/2018crowdqueue"
     !pip install keras-preprocessing
     ```
     
-## Running
+## **VCNN4PuDe** Running
 <a name="running"/>
 
 <img src"/files/running1.png" />
