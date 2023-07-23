@@ -1,6 +1,6 @@
 # **VCNN4PuDe:** A Novel Voronoi-based CNN Framework for Pushing Person Detection in Crowd Videos
 <p align='center'>
-<img src="./files/logo.png"  'width=50%' />
+<img src="./files/logo.png"  width='60%' />
 </p>
 <hr/>
 
